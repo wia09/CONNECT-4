@@ -86,6 +86,8 @@ Az n_games utáni szám módosításával elérhető akármennyi játszma szimul
 - A rendszer a szakdolgozat matematikai modelljeivel összhangban működik.
 
 
+## Elérhetőség
+Elérhető GitHubon is az alábbi linken: https://github.com/wia09/CONNECT-4
 
 ## Készítette
 Vágási Vivien 
